@@ -73,8 +73,14 @@ number index;
 
 
 ## declaração e uso de funções
+### Declaração
 ```
 :nomeDaFunçao:(string foo, number bar){
 
 }
+```
+
+### Uso
+```
+number res :=: :nomeDaFunção:("Foo",1);
 ```
