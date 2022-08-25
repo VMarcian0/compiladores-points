@@ -1,12 +1,6 @@
-# Laboratório de compiladores
+# Laboratório de compiladores 
 
-## Nome da linguagem : DOTS
-
-## Membros do grupo
-| Nome  | Ra  |
-|---|---|
-|  Rafael Moraes |  173019 |
-|  Victor Marciano |  180131 |
+## Exercício 1
 
 ## Função Principal
 ```
@@ -23,7 +17,7 @@
 |Função|Simbolo|
 |---|---|
 and|:&&:
-or|:||:
+or|:\|\|:
 Equal (assign value)|:=:
 not|:!:
 Equal comparison|::=::
