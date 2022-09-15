@@ -26,7 +26,7 @@ and|:&&:
 or|:||:
 Equal (assign value)|:=:
 not|:!:
-Equal comparison|::=::
+Equal comparison|:==:
 addition|:+:
 subtraction|:-:
 multiplication|:*:
@@ -34,8 +34,8 @@ division|:/:
 power|:^:
 less than|:<:|
 bigger than|:>:|
-increment|::+::|
-decrement|::-::|
+increment|:++:|
+decrement|:--:|
 
 ## Declaração de variável 
 ```

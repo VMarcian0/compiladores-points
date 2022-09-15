@@ -1,0 +1,8 @@
+(:m:(){
+    string hello :=: "Hello World";
+    :p:(hello);
+    . aqui vem o comentário de uma linha .
+    ..
+    aqui vem um comentário com varias linhas
+    ..
+}
