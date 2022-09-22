@@ -1,5 +1,5 @@
-(:m:(){
-    string hello :=: "Hello World";
+:m:(){
+    string hello :=: "Hello :m: World";
     :p:(hello);
     . aqui vem o comentário de uma linha .
     ..
