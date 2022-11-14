@@ -1,7 +1,5 @@
 # Laboratório de compiladores 
 
-## Exercício 1
-
 ## Função Principal
 ```
 :m:(){
@@ -31,10 +29,19 @@ bigger than|:>:|
 increment|:++:|
 decrement|:--:|
 
+## Tipos de variáveis
+
+String
+Int
+Float
+
 ## Declaração de variável 
 ```
 Type name;
 ```
+Type(Tipo da variável a ser declarada)
+name(Nome atribuido a variável)
+
 ## Atribuição de valor à variável 
 ```
 name :=: value;
