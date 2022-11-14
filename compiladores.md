@@ -31,9 +31,12 @@ decrement|:--:|
 
 ## Tipos de variáveis
 
-String
-Int
-Float
+String  
+
+Int  
+
+Float  
+
 
 ## Declaração de variável 
 ```
