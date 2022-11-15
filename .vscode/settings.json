@@ -1,5 +1,8 @@
 {
     "cSpell.words": [
         "functionals"
+    ],
+    "python.analysis.extraPaths": [
+        "./points_compiler"
     ]
 }

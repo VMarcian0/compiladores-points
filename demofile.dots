@@ -1,5 +1,4 @@
 :m:(){
     string hello :=: "Hello :m: World";
     :p:(hello);
-    . aqui vem o comentário de uma linha .
 }

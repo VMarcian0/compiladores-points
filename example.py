@@ -1,0 +1,6 @@
+from points_compiler.first_follow_grammar import get_first_and_follow_from_grammar_file
+from points_compiler.token_extractor import token_extractor
+
+
+file_path = f'points_compiler\gammar.example.txt'
+get_first_and_follow_from_grammar_file(file_path)
