@@ -76,7 +76,7 @@ number index;
 ## estrutura(s) de repetição
 |*Tipo de Repetição*|*Simbolo*|*Exemplo*|
 |---|---|---|
-|for|:f:|```:f:(number i:=:0; i:<:10; i::+::){}```|
+|for|:f:|```:f:(number i:=:0; i:<:10; i:++:){}```|
 |while|:w:|```:w:(foo ::=:: bar){}```|
 
 
