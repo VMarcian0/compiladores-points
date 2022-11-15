@@ -33,9 +33,7 @@ decrement|:--:|
 
 String  
 
-Int  
-
-Float  
+Number  
 
 
 ## Declaração de variável 
