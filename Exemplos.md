@@ -38,7 +38,7 @@
 ```
 
 
-##3- Retorna se é possível existir um triangulo com o tamanho dos três lados escolhidos
+## 3- Retorna se é possível existir um triangulo com o tamanho dos três lados escolhidos
 ```
 :m:(){
 
