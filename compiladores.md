@@ -40,8 +40,9 @@ Number
 ```
 Type name;
 ```
-Type(Tipo da variável a ser declarada)
-name(Nome atribuido a variável)
+Type(Tipo da variável a ser declarada)  
+
+name(Nome atribuido a variável)  
 
 ## Atribuição de valor à variável 
 ```
