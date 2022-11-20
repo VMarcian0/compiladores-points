@@ -1,5 +1,6 @@
-1 - Calculo de média recebendo 3 notas com pesos diferentes
+## 1 - Calculo de média recebendo 3 notas com pesos diferentes
 
+```
 :m:(){
     number nota1 :=: -1;
     number nota2 :=: -1;
@@ -19,9 +20,11 @@
 
     print(média)
 }
+```
 
-2- Imprime os números menores do que um terço do número escolhido e maiores do que dois terços
+## 2- Imprime os números menores do que um terço do número escolhido e maiores do que dois terços
 
+```
 :m:(){
 
 	number check;
@@ -33,9 +36,11 @@
 		}
 	}
 }
+```
 
-3- Retorna se é possível existir um triangulo com o tamanho dos três lados escolhidos
+## 3- Retorna se é possível existir um triangulo com o tamanho dos três lados escolhidos
 
+```
 :m:(){
 
     number lado1 :=: input();
@@ -55,3 +60,4 @@
 		print("É um triângulo")
 		}
 }
+```
