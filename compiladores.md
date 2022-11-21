@@ -60,7 +60,6 @@ number index;
 |---|---|
 |If|:cond:(){}|
 |Else|:!cond:{}|
-|Else if|:!cond:(){}|
 ```
 # Exemplos
 :cond:(foo :==: bar){
