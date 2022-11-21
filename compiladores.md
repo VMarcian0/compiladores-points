@@ -31,11 +31,10 @@ decrement|:--:|
 
 ## Tipos de variáveis
 
-String  
-
-Number  
-
-
+|type|symbol|
+|---|---|
+|String|string|
+|Number|number|
 ## Declaração de variável 
 ```
 Type name;
